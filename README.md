@@ -13,3 +13,5 @@ Pour ce projet nous utilisons des données  issues de "data.gouv.fr".
   - veh.csv donne des informations sur les véhicules impliqués
   - vict.csv donne des informations sur les victimes
 
+
+A la fin de ce projet nous pouvons dire que le meilleur modèle est : Decision Tree (arbre de décision) avec accuracy = 0.612820 et f1-score=0.596473
