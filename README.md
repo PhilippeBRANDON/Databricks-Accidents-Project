@@ -1,6 +1,6 @@
 # Databricks-Accidents-Project
 
-## Travail en binôme sur machine 
+## 1. Travail en binôme sur machine 
 
 L’objectif de ce projet est de créer un modèle qui permet de prédire la gravité d’un accident, en fonction de plusieurs informations sur cet accident.
 Pour ce projet nous utilisons des données  issues de "data.gouv.fr".
